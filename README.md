@@ -1,3 +1,6 @@
+🙏 Thanks To https://github.com/Project-Sloth
+This script is inspired by https://github.com/Project-Sloth/ps-ui
+
 # ads_notify
 A simple and flexible notification system that works with any framework (ESX, QBCore, QBOX, etc). 
 
